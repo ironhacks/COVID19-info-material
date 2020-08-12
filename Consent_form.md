@@ -1,4 +1,4 @@
-![img](/Users/sbrunswi/COVID19-info-material/clip_image002.jpg)
+![img](https://raw.githubusercontent.com/ironhacks/COVID19-info-material/master/clip_image002.jpg)
 
  
 
