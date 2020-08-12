@@ -1,14 +1,12 @@
-![img](https://raw.githubusercontent.com/ironhacks/COVID19-info-material/master/clip_image002.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ironhacks/COVID19-info-material/master/clip_image002.jpg" alt="RCODI logo"></p>
 
  
 
 <p align="center">
   <b>RESEARCH PARTICIPANT CONSENT FORM</b><br></p>
   <p align="center">Creating Impact in COVID-19 Data Science Contests</p> 
-   <p align="center">Principle Investigator Sabine Brunswicker, Research Center for Open Digital Innovation (RCODI),	
-  Purdue University</p>
-
-
+<p align="center">Principle Investigator Sabine Brunswicker, Research Center for Open Digital Innovation (RCODI),	Purdue University</p>
 
 
 
