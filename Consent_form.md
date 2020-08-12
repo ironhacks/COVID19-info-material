@@ -3,11 +3,15 @@
  
 
 <p align="center">
-  <b>RESEARCH PARTICIPANT CONSENT FORM</b><br>
-  Creating Impact in COVID-19 Data Science Contests 
-   Principle Investigator Sabine Brunswicker
-  Research Center for Open Digital Innovation (RCODI)	
+  <b>RESEARCH PARTICIPANT CONSENT FORM</b><br></p>
+  <p align="center">Creating Impact in COVID-19 Data Science Contests</p> 
+   <p align="center">Principle Investigator Sabine Brunswicker, Research Center for Open Digital Innovation (RCODI),	
   Purdue University</p>
+
+
+
+
+
 ### Key Information
 
 Please take time to review this information carefully. This is a research study. Your participation in this study is voluntary which means that you may choose not to participate at any time without penalty or loss of benefits to which you are otherwise entitled. You may ask questions to the researchers about the study whenever you would like. If you decide to take part in the study, you will be asked to sign this form, be sure you understand what you will do and any possible risks or benefits. The purpose of this study is to learn more about platform-enabled data-science contests. Such contests have become an important mechanism for solving COVID-19 data science challenges. In such contests, competitors have 2 to 4 weeks to design and improve their solutions in order to win. 
