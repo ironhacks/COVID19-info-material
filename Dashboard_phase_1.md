@@ -7,8 +7,8 @@ In your dashboard, we report a selected set of metrics related to your model's *
 
 Your dashboard has two components: Your scores and Your peers.
 
-- Your scores tell you about individual metrics.
-- Your peers provide you some more insight into your current standing in the hack with 47 participants and 7 submissions in phase 1. 
+- The `Your scores` tab tells you about individual metrics.
+- The `Your peers` tab provide you more insight into your current standing in the hack. Please not that the mean and the standard deviation are based on the number of submission during this particular phase! 
 
 In both components, we present the following metrics: 
 
