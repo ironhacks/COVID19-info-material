@@ -3,7 +3,7 @@
 
 
 
-In your dashboard, we report a selected set of metrics related to your model's **prediction accuracy** related to sum_visit_counts of 304 unique uuids for week_18 as well as your **effort** in achieving this accuracy.
+In your dashboard, we report a selected set of metrics related to your model's **prediction accuracy** related to the `sum_visit_counts` of a set of unique uuids for a particular week (week 18 to week 21 well as your **effort** in achieving this accuracy.
 
 Your dashboard has two components: Your scores and Your peers.
 
@@ -14,8 +14,8 @@ In both components, we present the following metrics:
 
 | Metric            | Brief Description/Formula                                    | Data type                     |
 | :---------------- | ------------------------------------------------------------ | ----------------------------- |
-| `MSPE`            | The Mean Squared Prediction Error for the `sum_visit_counts` for `week 18` is calculated with this [formula](https://raw.githubusercontent.com/ironhacks/COVID19-info-material/master/MSPE.png) with n being the 304 unique `uuids`  in week 18; if your cells where "empty" for certain `uuids` we assume that you submitted a `0`; the lower your MSPE, the better your model; please note that the MSPE is sensitive to outliers. The MSPE is commonly used in other Data Science Challenges; thus, in this challenge, we will be using the MSPE | FLOAT (rounded to two digits) |
-| `MAPE`            | The Mean Absolute Prediction Error for the `sum_visit_counts` for `week 18` is calculated with this [formula](https://raw.githubusercontent.com/ironhacks/COVID19-info-material/master/MAPE.png); with n being the 304 unique `uuids`  in week 18; if your cells where "empty" for certain `uuids` we assume that you submitted a `0`; the lower your MAPE, the better your model | FLOAT (rounded to two digits) |
+| `MSPE`            | The Mean Squared Prediction Error for the `sum_visit_counts` for a certain week (e.g. `week 19`) is calculated with this [formula](https://raw.githubusercontent.com/ironhacks/COVID19-info-material/master/MSPE.png) with n being the unique `uuids`  in the week for which you are forecasting for (e.g.week 19); if your cells where "empty" for certain `uuids` we assume that you submitted a `0`; the lower your MSPE, the better your model; please note that the MSPE is sensitive to outliers. The MSPE is commonly used in other Data Science Challenges; thus, in this challenge, we will be using the MSPE | FLOAT (rounded to two digits) |
+| `MAPE`            | The Mean Absolute Prediction Error for the `sum_visit_counts` for a certain week (e.g.`week 19'`) is calculated with this [formula](https://raw.githubusercontent.com/ironhacks/COVID19-info-material/master/MAPE.png); with n being the number of unique `uuids`  in the week that you are forecasting for (e.g. week 19); if your cells where "empty" for certain `uuids` we assume that you submitted a `0`; the lower your MAPE, the better your model | FLOAT (rounded to two digits) |
 | `Notebook Effort` | The `Notebook Effort` score describes your effort in using your notebook to build your model; it considers the number of cells as well as your activity in modifying and running them. The higher your metric the better! | INTEGER                       |
 | `BigQuery Effort` | The `BigQuery Effort` describes your effort in understanding the data we provided you; it considers the number and the nature of the jobs you launched via your notebook. The higher your metric the better! | INTEGER                       |
 
