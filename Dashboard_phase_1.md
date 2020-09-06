@@ -3,14 +3,17 @@
 
 
 
-In your dashboard, we report a selected set of metrics related to your model's **prediction accuracy** related to the `sum_visit_counts` of a set of unique uuids for a particular week (week 18 to week 21 well as your **effort** in achieving this accuracy.
+In your dashboard, we report a selected set of metrics related to your model's **prediction accuracy** related to the `sum_visit_counts` of a set of unique uuids for a particular week (week 18 to week 21 well as your **effort** in achieving this accuracy.
 
-Your dashboard has two components: Your scores and Your peers.
 
-- The `Your scores` tab tells you about individual metrics.
-- The `Your peers` tab provide you more insight into your current standing in the hack. Please not that the mean and the standard deviation are based on the number of submission during this particular phase! 
 
-In both components, we present the following metrics: 
+Your dashboard has three tabs: 
+
+- The `Your Scores` tab tells you about individual metrics.
+- The `Your Peers` allows you to explore the collection of submission we have received for a particular phase. To preserve your anonymity we are using pseudo names!  
+- The `Summary` tab provides you more insight into your current standing in the hack in the respective phase that you have selected (phase 1, phase 2 etc.). Please not that the mean and the standard deviation are based on the number of submission during this particular phase! 
+
+In `Your Scores` and the `Summary` tab we present the following metrics: 
 
 | Metric            | Brief Description/Formula                                    | Data type                     |
 | :---------------- | ------------------------------------------------------------ | ----------------------------- |
